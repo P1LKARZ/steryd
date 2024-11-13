@@ -1,1 +1,1 @@
-# steryd
+# zadanie-programowanie
